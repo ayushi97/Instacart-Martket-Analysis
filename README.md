@@ -15,4 +15,4 @@ We have completed 3 tasks:
 2. Leveraged association mining by building Apriori Algorithm for finding rules with strong confidence and lift ratio
 3. Build a logistic regression busing XGBoost for predicting whether a product would be reordered in R.
 
-
+Future work includes using a clustering algo such as KNN with PCA for user segmentation and profiling.
